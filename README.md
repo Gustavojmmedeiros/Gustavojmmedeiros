@@ -1,5 +1,5 @@
 <h1>🔹Olá, me chamo Gustavo🔹</h1>
-<p>Sou um economista em busca de me tornar um ótimo programador</p>
+<p>Sou um economista aprendendo sobre tecnologias por conta própria em busca de me tornar um ótimo programador</p>
 
   ##
   
